@@ -1,0 +1,15 @@
+.paragraph{
+    background-color: rgb(233, 151, 151);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#div1.class2{
+    color:blue;
+    font-size: 36px;
+}
+
+.size-font{
+    background-color: rgb(99, 186, 63);
+    font-size: 24px;
+    font-weight: bold;
+}
